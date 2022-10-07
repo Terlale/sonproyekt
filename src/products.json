@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "title": "Mikrodalğalı soba SAMSUNG MG23T5018AN/BW",
+      "price": 159.99,
+      "image": "https://www.bakuelectronics.az/assets/cache_image/products/93918/mikrovolnovaya-pech-samsung-mg23t5018an-bw_260x220_172.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Paltaryuyan maşın MIDEA MFE06W60/W",
+      "price": 579.99,
+      "image": "https://www.bakuelectronics.az/assets/cache_image/products/109134/mfe06w50-w-es_260x220_172.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Kondisioner BOSCH CLL2000W26-KIT, 9000 BTU",
+      "price": 1149.99,
+      "image": "https://www.bakuelectronics.az/assets/cache_image/products/111666/27049800x0_260x220_172.jpg"
+      
+    },
+    {
+      "id": 4,
+      "title": "Smartfon Samsung Galaxy A53 8GB/256GB White (A536)",
+      "price": 999.99,
+      "image": "https://www.bakuelectronics.az/assets/cache_image/products/104798/new-project-2022-04-15t103116788_260x220_992.png"
+    },
+    {
+      "id": 5,
+      "title": "Smartfon Xiaomi Redmi Note 11 Pro 5G 8GB/128GB Gray",
+      "price": 799.99,
+      "image": "https://www.bakuelectronics.az/assets/cache_image/products/104845/xiaomi-redmi-note-11-pro-128gb-5g-gray-1_260x220_172.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Noutbuk MSI Modern B11MO (9S7-14D314-231)",
+      "price": 1399.99,
+      "image": "https://www.bakuelectronics.az/assets/cache_image/products/102829/file-161-1_260x220_172.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Soyuducu LG GR-C539HLCU.DPZQMER",
+      "price": 1819.99,
+      "image": "https://www.bakuelectronics.az/assets/cache_image/products/7829/c539hlcu_260x220_172.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Kondisioner LG I24CGH.NGGF-KIT, 24000 BTU, Invertor",
+      "price": 2299.99,
+      "image": "https://www.bakuelectronics.az/assets/cache_image/products/7685/1_260x220_172.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Planşet Samsung Galaxy Tab S7 FE LTE 64GB BLACK (T735)",
+      "price": 1249.99,
+      "image": "https://www.bakuelectronics.az/assets/cache_image/products/96837/6905-terra-1_260x220_172.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Smart saat Haylou LS02 L Black",
+      "price": 89.99,
+      "image": "https://www.bakuelectronics.az/assets/cache_image/products/101313/xiaomi-haylou-ls02-l-black-1_260x220_172.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Televizor Sony KD-43X81J RU3",
+      "price": 1599.99,
+      "image": "https://www.bakuelectronics.az/assets/cache_image/products/98199/x81j-1_260x220_172.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Simsiz qulaqlıq Apple AirPods 2 White (MV7N2)",
+      "price": 349.99,
+      "image": "https://www.bakuelectronics.az/assets/cache_image/products/61074/apple-airpods-2-white-1_260x220_172.jpg"
+    }
+  ]
