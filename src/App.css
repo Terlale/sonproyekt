@@ -93,3 +93,10 @@ object-fit: contain;
   top: 60%;
   left: 10%;
 }
+.swiper-wrapper{
+  height: 420px !important;
+}
+
+.swiper-slide img{
+  width: 100%;
+}
